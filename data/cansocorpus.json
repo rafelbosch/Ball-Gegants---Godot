@@ -1,0 +1,51 @@
+{
+	"versio estructura": "0.0.1",
+	"Titul": "Ball de Corpus de la Garriga",
+	"Autor tema": "Roger Cucurella",
+	"Arrenjament tema" : "Roger Cucurella",
+	"Autor Balll": "Oleger i Biel",
+	"Durada" : 210.00,
+	"Video": "Corpus2.ogv",
+	"Gegants": [
+		{ "id" : "g1", "nom": "Magi" },
+		{ "id" : "g2", "nom": "Xixilona" },
+		{ "id" : "g3", "nom": "Benet" }
+		],
+	"Frases": [
+		{"id": 1 , "inici" : 21.31 ,    "titul" : "Aixacar Gegants" } ,
+		{"id": 2 , "inici" : 29.04 ,    "titul" : "Fer triangle i saludar" }, 
+		{"id": 3 , "inici" : 48.3		,    "titul" : "Avançar en cua i  volta i mitxa" }, 
+		{"id": 4 , "inici" : 70.8		,    "titul" : "Avansar en paralel i volta" }, 
+		{"id": 5 , "inici" : 83.01		,    "titul" : "Separació" },
+		{"id": 6 , "inici" : 85.01		,    "titul" : "Doble rotació" } ,
+		{"id": 7 , "inici" : 100.04		,    "titul" : "Endevant  enrera i salutacions" } ,
+		{"id": 8 , "inici" : 115.08		,    "titul" : "Doble rotació dreta " } ,
+		{"id": 9 , "inici" : 129.11		,    "titul" : "Salutacions finals" } ,
+		{"id": 10 , "inici" : 158.23		,    "titul" : "Girs finals" } ,
+		{"id": 11 , "inici" : 162.23		,    "titul" : "Baixar" } 
+		],		
+		
+	"Coreografia": [
+		{"gegant": "g1",
+		"pasos" : [
+			{"pass": "Posicio", "inici": 0.00, "temps" : 0.15, "peu":  null, "gir": null , "pases": null, "aixacat" : "no" , "x": 0 , "y": 0, "direccio": 0 },		
+			{"pass": "Aixacar", "inici": 21.31, "temps" : 0.95, "peu":  null, "gir": null , "pases": null, "aixacat" : null , "x": 0 , "y": 0, "direccio": 0},
+			{"pass": "Avançar", "inici": 21.31, "temps" : 0.95, "peu":  null, "gir": null , "pases": null, "aixacat" : null , "x": 0 , "y": 0, "direccio": 0}
+			]
+		},
+		{"gegant":"g2",
+		"pasos" : [
+			{"pass": "Posicio", "inici": 0.00, "temps" : 0.15, "peu":  null, "gir": null , "pases": null, "aixacat" : "no" , "x": 0 , "y": 0, "direccio": 0 },		
+			{"pass": "Aixacar", "inici": 21.31, "temps" : 0.95, "peu":  null, "gir": null , "pases": null, "aixacat" : null , "x": 0 , "y": 0, "direccio": 0},
+			{"pass": "Avançar", "inici": 21.31, "temps" : 0.95, "peu":  null, "gir": null , "pases": null, "aixacat" : null , "x": 0 , "y": 0, "direccio": 0}
+			]
+		},
+		{"gegant":"g3",
+		"pasos" : [
+			{"pass": "Posicio", "inici": 0.00, "temps" : 0.15, "peu":  null, "gir": null , "pases": null, "aixacat" : "no" , "x": 0 , "y": 0, "direccio": 0 },		
+			{"pass": "Aixacar", "inici": 21.31, "temps" : 0.95, "peu":  null, "gir": null , "pases": null, "aixacat" : null , "x": 0 , "y": 0, "direccio": 0},
+			{"pass": "Avançar", "inici": 21.31, "temps" : 0.95, "peu":  null, "gir": null , "pases": null, "aixacat" : null , "x": 0 , "y": 0, "direccio": 0}
+			]
+		}
+	]   
+}
